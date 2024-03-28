@@ -1,0 +1,13 @@
+D:\Programirane\C#\airport\airport\bin\Debug\airport.exe.config
+D:\Programirane\C#\airport\airport\bin\Debug\airport.exe
+D:\Programirane\C#\airport\airport\bin\Debug\airport.pdb
+D:\Programirane\C#\airport\airport\obj\Debug\airport.csproj.AssemblyReference.cache
+D:\Programirane\C#\airport\airport\obj\Debug\airport.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\C#\airport\airport\obj\Debug\airport.Form1.resources
+D:\Programirane\C#\airport\airport\obj\Debug\airport.Properties.Resources.resources
+D:\Programirane\C#\airport\airport\obj\Debug\airport.csproj.GenerateResource.cache
+D:\Programirane\C#\airport\airport\obj\Debug\airport.csproj.CoreCompileInputs.cache
+D:\Programirane\C#\airport\airport\obj\Debug\airport.exe
+D:\Programirane\C#\airport\airport\obj\Debug\airport.pdb
+D:\Programirane\C#\airport\airport\obj\Debug\airport.AddAirport.resources
+D:\Programirane\C#\airport\airport\obj\Debug\airport.AddDestination.resources
