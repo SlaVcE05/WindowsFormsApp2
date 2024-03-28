@@ -11,3 +11,16 @@ D:\Programirane\C#\airport\airport\obj\Debug\airport.exe
 D:\Programirane\C#\airport\airport\obj\Debug\airport.pdb
 D:\Programirane\C#\airport\airport\obj\Debug\airport.AddAirport.resources
 D:\Programirane\C#\airport\airport\obj\Debug\airport.AddDestination.resources
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\bin\Debug\airport.exe.config
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\bin\Debug\airport.exe
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\bin\Debug\airport.pdb
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.csproj.AssemblyReference.cache
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.csproj.SuggestedBindingRedirects.cache
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.Form1.resources
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.AddAirport.resources
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.AddDestination.resources
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.Properties.Resources.resources
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.csproj.GenerateResource.cache
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.csproj.CoreCompileInputs.cache
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.exe
+D:\Finki\IV Semestar\VP\zadaci\airport\airport\obj\Debug\airport.pdb

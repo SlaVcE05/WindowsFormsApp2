@@ -82,7 +82,10 @@ namespace airport
                 if (mostExp == null) 
                 {
                     mostExp = destination;
-                }else if(destination.Price > mostExp.Price)
+                    continue;
+                }
+                
+                if(destination.Price > mostExp.Price)
                     mostExp = destination;
 
                 destinationLB.Items.Add(destination);

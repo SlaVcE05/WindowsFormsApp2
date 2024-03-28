@@ -28,6 +28,9 @@ namespace airport
 
         private void saveBtn_Click(object sender, EventArgs e)
         {
+            if (nameTxt.Text.Trim().Equals("") || cityTxt.Text.Trim().Equals("") || shortNameTxt.Text.Trim().Equals(""))
+                return;
+
             airport = new Airport(nameTxt.Text.Trim(), cityTxt.Text.Trim(), shortNameTxt.Text.Trim());
             DialogResult = System.Windows.Forms.DialogResult.OK;
 
@@ -48,16 +51,16 @@ namespace airport
 
         private void cityTxt_Validating(object sender, CancelEventArgs e)
         {
-            if (cityTxt.Text.Length > 0)
-            {
-                errorProvider.SetError(cityTxt, null);
-                e.Cancel = false;
-            }
-            else
+            if (cityTxt.Text.Length == 0)
             {
                 errorProvider.SetError(cityTxt, "Името не смее да биде празно");
                 e.Cancel = true;
+                return;
             }
+            
+            errorProvider.SetError(cityTxt, null);
+            e.Cancel = false;
+            
         }
 
         private void shortNameTxt_Validating(object sender, CancelEventArgs e)
@@ -66,29 +69,26 @@ namespace airport
             {
                 errorProvider.SetError(shortNameTxt, "Големината треба да биде 3 букви");
                 e.Cancel = true;
+                return;
             }
-            else
-            {
-                foreach (char c in shortNameTxt.Text) 
-                {
-                    if (Char.IsDigit(c))
-                    {
-                        errorProvider.SetError(shortNameTxt, "Број не е дозволн");
-                        e.Cancel = true;
-                        return;
-                    }
 
-                    if (Char.IsLower(c) || Char.IsDigit(c)) 
-                    {
-                        errorProvider.SetError(shortNameTxt, "Сите букви треба да се големи");
-                        e.Cancel = true;
-                        return;
-                    }
-                }
-                
-                errorProvider.SetError(cityTxt, null);
-                e.Cancel = false;
+            if (shortNameTxt.Text.Any(char.IsDigit)) 
+            {
+                errorProvider.SetError(shortNameTxt, "Број не е дозволн");
+                e.Cancel = true;
+                return;
             }
+
+            if (!shortNameTxt.Text.ToUpper().Equals(shortNameTxt.Text)) 
+            {
+                errorProvider.SetError(shortNameTxt, "Сите букви треба да се големи");
+                e.Cancel = true;
+                return;
+            }
+
+            errorProvider.SetError(cityTxt, null);
+            e.Cancel = false;
+
         }
     }
 }
