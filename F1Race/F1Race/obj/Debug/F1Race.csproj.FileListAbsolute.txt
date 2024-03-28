@@ -1,0 +1,12 @@
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\bin\Debug\F1Race.exe.config
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\bin\Debug\F1Race.exe
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\bin\Debug\F1Race.pdb
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.csproj.AssemblyReference.cache
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.csproj.SuggestedBindingRedirects.cache
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.Form1.resources
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.Properties.Resources.resources
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.csproj.GenerateResource.cache
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.csproj.CoreCompileInputs.cache
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.exe
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.pdb
+D:\Finki\IV Semestar\VP\zadaci\F1Race\F1Race\obj\Debug\F1Race.AddDriver.resources
