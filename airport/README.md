@@ -20,6 +20,6 @@
 
 **За сите останати функционалности тестирајте ја извршната верзија на апликацијата која може да ја симнете подолу.**
 
-![Изглед на апликацијата](main.PNG)
-![Додавање нов аеродром](new_airport.PNG)
-![Додавање нова дестинација](new_destination.PNG)
+![Изглед на апликацијата](https://github.com/finki-mk/VP/blob/master/Ispitni/Airports/main.PNG)
+![Додавање нов аеродром](https://github.com/finki-mk/VP/blob/master/Ispitni/Airports/new_airport.PNG)
+![Додавање нова дестинација](https://github.com/finki-mk/VP/blob/master/Ispitni/Airports/new_destination.PNG)
