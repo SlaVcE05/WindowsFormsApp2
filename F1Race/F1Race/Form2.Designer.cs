@@ -73,7 +73,6 @@
             this.ageNum.Name = "ageNum";
             this.ageNum.Size = new System.Drawing.Size(120, 20);
             this.ageNum.TabIndex = 2;
-            this.ageNum.Enter += new System.EventHandler(this.ageNum_Enter);
             // 
             // firstCB
             // 

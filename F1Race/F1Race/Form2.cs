@@ -43,10 +43,5 @@ namespace F1Race
             DialogResult = System.Windows.Forms.DialogResult.OK;
         }
 
-        private void ageNum_Enter(object sender, EventArgs e)
-        {
-            if (ageNum.Value == 0)
-                ageNum.Select();
-        }
     }
 }
