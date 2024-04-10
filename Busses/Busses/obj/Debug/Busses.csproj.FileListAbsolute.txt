@@ -1,0 +1,13 @@
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.csproj.AssemblyReference.cache
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.csproj.SuggestedBindingRedirects.cache
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.Form1.resources
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.NewBus.resources
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.NewLine.resources
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.Properties.Resources.resources
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.csproj.GenerateResource.cache
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.csproj.CoreCompileInputs.cache
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\bin\Debug\Busses.exe.config
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\bin\Debug\Busses.exe
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\bin\Debug\Busses.pdb
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.exe
+D:\Finki\IV Semestar\VP\zadaci\Busses\Busses\obj\Debug\Busses.pdb
