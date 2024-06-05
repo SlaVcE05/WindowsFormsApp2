@@ -1,3 +1,4 @@
 *.suo
 *.resources
 *.cache
+/.vs
