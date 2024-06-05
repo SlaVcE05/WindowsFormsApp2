@@ -1,0 +1,11 @@
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\bin\Debug\Elipsi.exe.config
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\bin\Debug\Elipsi.exe
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\bin\Debug\Elipsi.pdb
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.csproj.AssemblyReference.cache
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.csproj.SuggestedBindingRedirects.cache
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.Form1.resources
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.Properties.Resources.resources
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.csproj.GenerateResource.cache
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.csproj.CoreCompileInputs.cache
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.exe
+D:\Finki\IV Semestar\VP\zadaci\Elipsi\Elipsi\obj\Debug\Elipsi.pdb
