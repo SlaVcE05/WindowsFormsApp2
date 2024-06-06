@@ -7,9 +7,12 @@ using System.Threading.Tasks;
 
 namespace Polygons
 {
+
+    [Serializable]
     public class Data
     {
-        List<Polygon> polygons { get; set; }
+        public List<Polygon> polygons { get; set; }
+        public bool IsChanged { get; set; }
 
         public Data()
         {
@@ -28,6 +31,15 @@ namespace Polygons
         public void addPoligone(Polygon p)
         {
             polygons.Add(p);
+            IsChanged = true;
+        }
+
+        public void Move(int x, int y)
+        {
+            foreach(var polygon in polygons)
+            {
+                polygon.Move(x, y);
+            }
         }
 
 
