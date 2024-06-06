@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons", "Polygons\Polygons.csproj", "{08ED48F5-5DDA-4031-AFE6-6EF73CEC4CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08ED48F5-5DDA-4031-AFE6-6EF73CEC4CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08ED48F5-5DDA-4031-AFE6-6EF73CEC4CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08ED48F5-5DDA-4031-AFE6-6EF73CEC4CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08ED48F5-5DDA-4031-AFE6-6EF73CEC4CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951FB2FB-13BA-4CF2-B694-10EA35BE0D00}
+	EndGlobalSection
+EndGlobal

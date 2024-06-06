@@ -1,0 +1,11 @@
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\bin\Debug\Polygons.exe.config
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\bin\Debug\Polygons.exe
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\bin\Debug\Polygons.pdb
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.csproj.AssemblyReference.cache
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.csproj.SuggestedBindingRedirects.cache
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.Form1.resources
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.Properties.Resources.resources
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.csproj.GenerateResource.cache
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.csproj.CoreCompileInputs.cache
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.exe
+D:\Finki\IV Semestar\VP\zadaci\Polygons\Polygons\obj\Debug\Polygons.pdb
